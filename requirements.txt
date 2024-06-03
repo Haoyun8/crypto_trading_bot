@@ -1,0 +1,15 @@
+openai==1.30.5
+ccxt==4.3.37
+pandas==2.2.2
+numpy==1.26.0
+keras==2.8.0
+tensorflow==2.16.1
+scikit-learn==1.5.0
+requests==2.31.0
+tk==0.1.0
+cryptography==42.0.7
+schedule==1.1.0
+aiohttp==3.9.5
+prometheus-client==0.13.1
+python-dotenv==0.21.0
+websockets==12.0

@@ -1,0 +1,74 @@
+2024-06-02 20:00:01,461 - crypto_trading_bot - INFO - Starting trading bot...
+2024-06-02 20:00:01,663 - crypto_trading_bot - INFO - Prometheus metrics available at http://localhost:8000
+2024-06-02 20:00:01,665 - crypto_trading_bot - INFO - Scheduler started, job scheduled every 5 minutes.
+2024-06-02 20:07:19,187 - crypto_trading_bot - INFO - Starting trading bot...
+2024-06-02 20:07:19,278 - crypto_trading_bot - INFO - Prometheus metrics available at http://localhost:8000
+2024-06-02 20:07:19,279 - crypto_trading_bot - INFO - Scheduler started, job scheduled every 5 minutes.
+2024-06-02 20:19:42,891 - crypto_trading_bot - INFO - Starting trading bot...
+2024-06-02 20:19:43,026 - crypto_trading_bot - INFO - Prometheus metrics available at http://localhost:8000
+2024-06-02 20:22:18,215 - crypto_trading_bot - INFO - Starting trading bot...
+2024-06-02 20:22:18,314 - crypto_trading_bot - INFO - Prometheus metrics available at http://localhost:8000
+2024-06-02 20:29:56,037 - crypto_trading_bot - INFO - Starting trading bot...
+2024-06-02 20:29:56,365 - crypto_trading_bot - INFO - Prometheus metrics available at http://localhost:8000
+2024-06-02 20:29:56,448 - crypto_trading_bot - ERROR - No symbols found in the database. Please ensure the symbols table is populated.
+2024-06-02 20:30:37,065 - crypto_trading_bot - INFO - Starting trading bot...
+2024-06-02 20:30:37,145 - crypto_trading_bot - INFO - Prometheus metrics available at http://localhost:8000
+2024-06-02 20:30:37,218 - crypto_trading_bot - INFO - Connecting to WebSocket for BTC/USDT...
+2024-06-02 20:30:37,367 - crypto_trading_bot - INFO - Connecting to WebSocket for ETH/USDT...
+2024-06-02 20:30:37,606 - crypto_trading_bot - INFO - Connected to WebSocket for BTC/USDT
+2024-06-02 20:30:37,608 - crypto_trading_bot - INFO - Connected to WebSocket for ETH/USDT
+2024-06-02 20:41:15,348 - crypto_trading_bot - INFO - Starting trading bot...
+2024-06-02 20:41:15,612 - crypto_trading_bot - INFO - Prometheus metrics available at http://localhost:8000
+2024-06-02 20:41:15,613 - crypto_trading_bot - INFO - Scheduler started, job scheduled every week for symbol update.
+2024-06-02 20:42:01,248 - crypto_trading_bot - INFO - Starting trading bot...
+2024-06-02 20:42:01,278 - crypto_trading_bot - INFO - Prometheus metrics available at http://localhost:8000
+2024-06-02 20:42:01,279 - crypto_trading_bot - INFO - Scheduler started, job scheduled every week for symbol update.
+2024-06-02 22:04:30,216 - crypto_trading_bot - INFO - Starting trading bot...
+2024-06-02 22:04:30,352 - crypto_trading_bot - INFO - Prometheus metrics available at http://localhost:8000
+2024-06-02 22:04:30,352 - crypto_trading_bot - INFO - Scheduler started, job scheduled every week for symbol update.
+2024-06-02 22:18:58,789 - crypto_trading_bot - INFO - Starting trading bot...
+2024-06-02 22:18:58,893 - crypto_trading_bot - INFO - Prometheus metrics available at http://localhost:8000
+2024-06-02 22:18:58,896 - crypto_trading_bot - INFO - Scheduler started, job scheduled every week for symbol update.
+2024-06-02 22:27:23,438 - crypto_trading_bot - INFO - Starting trading bot...
+2024-06-02 22:27:23,475 - crypto_trading_bot - INFO - Prometheus metrics available at http://localhost:8000
+2024-06-02 22:27:23,476 - crypto_trading_bot - INFO - Scheduler started, job scheduled every week for symbol update.
+2024-06-02 22:31:33,809 - crypto_trading_bot - INFO - Starting trading bot...
+2024-06-02 22:31:33,909 - crypto_trading_bot - INFO - Prometheus metrics available at http://localhost:8000
+2024-06-02 22:31:33,909 - crypto_trading_bot - INFO - Scheduler started, job scheduled every week for symbol update.
+2024-06-02 22:45:56,447 - crypto_trading_bot - INFO - Starting trading bot...
+2024-06-02 22:45:56,531 - crypto_trading_bot - INFO - Prometheus metrics available at http://localhost:8000
+2024-06-02 22:45:56,532 - crypto_trading_bot - INFO - Scheduler started, job scheduled every week for symbol update.
+2024-06-02 22:45:57,303 - crypto_trading_bot - ERROR - Error fetching top symbols: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2024-06-02 22:45:57,313 - crypto_trading_bot - INFO - Inserted top 0 symbols into the database.
+2024-06-02 22:45:57,345 - crypto_trading_bot - ERROR - No symbols found in the database. Please ensure the symbols table is populated.
+2024-06-03 06:12:16,425 - crypto_trading_bot - INFO - Starting trading bot...
+2024-06-03 06:12:16,514 - crypto_trading_bot - INFO - Prometheus metrics available at http://localhost:8000
+2024-06-03 06:12:16,515 - crypto_trading_bot - INFO - Scheduler started, job scheduled every week for symbol update.
+2024-06-03 06:12:20,313 - crypto_trading_bot - ERROR - Error fetching top symbols from ChatGPT (attempt 1): Constructor parameter should be str
+2024-06-03 06:12:21,314 - crypto_trading_bot - ERROR - Error fetching top symbols from ChatGPT (attempt 2): Constructor parameter should be str
+2024-06-03 06:12:23,315 - crypto_trading_bot - ERROR - Error fetching top symbols from ChatGPT (attempt 3): Constructor parameter should be str
+2024-06-03 06:12:27,316 - crypto_trading_bot - ERROR - Failed to retrieve top symbols from ChatGPT.
+2024-06-03 06:12:27,336 - crypto_trading_bot - INFO - Inserted top 0 symbols into the database.
+2024-06-03 06:12:27,400 - crypto_trading_bot - ERROR - No symbols found in the database. Please ensure the symbols table is populated.
+2024-06-03 06:17:10,212 - crypto_trading_bot - INFO - Starting trading bot...
+2024-06-03 06:17:10,327 - crypto_trading_bot - INFO - Prometheus metrics available at http://localhost:8000
+2024-06-03 06:17:10,327 - crypto_trading_bot - INFO - Scheduler started, job scheduled every week for symbol update.
+2024-06-03 06:17:10,327 - crypto_trading_bot - INFO - API_KEY: None
+2024-06-03 06:17:10,327 - crypto_trading_bot - INFO - API_SECRET: None
+2024-06-03 06:55:06,866 - crypto_trading_bot - INFO - Starting trading bot...
+2024-06-03 06:55:06,964 - crypto_trading_bot - INFO - Prometheus metrics available at http://localhost:8000
+2024-06-03 06:55:06,965 - crypto_trading_bot - INFO - Scheduler started, job scheduled every week for symbol update.
+2024-06-03 06:55:06,965 - crypto_trading_bot - INFO - Scheduler started in a separate thread.
+2024-06-03 06:55:06,972 - crypto_trading_bot - INFO - API_KEY: 0b9fdb57-f8bb-476c-bda6-e11179f88780
+2024-06-03 06:55:06,972 - crypto_trading_bot - INFO - API_SECRET: 7653FCF2B58D83E928825C4B43974BA6
+2024-06-03 06:55:06,972 - crypto_trading_bot - INFO - API_PASSPHRASE: Wumeiqing..123
+2024-06-03 06:55:06,972 - crypto_trading_bot - INFO - CHATGPT_API_URL: https://www.askapi.chat/v1/engines/ChatGPT4o/completions
+2024-06-03 06:55:06,972 - crypto_trading_bot - INFO - CHATGPT_API_KEY: sk-4T3FIDUhdC91aR2b117e92Ad6e5b406393AdD05d4b1f4232
+2024-06-03 06:55:07,016 - crypto_trading_bot - ERROR - Error fetching top symbols: string indices must be integers, not 'str'
+2024-06-03 06:55:07,067 - crypto_trading_bot - INFO - Inserted top 0 symbols into the database.
+2024-06-03 06:55:07,068 - crypto_trading_bot - INFO - API_KEY: 0b9fdb57-f8bb-476c-bda6-e11179f88780
+2024-06-03 06:55:07,068 - crypto_trading_bot - INFO - API_SECRET: 7653FCF2B58D83E928825C4B43974BA6
+2024-06-03 06:55:07,068 - crypto_trading_bot - INFO - API_PASSPHRASE: Wumeiqing..123
+2024-06-03 06:55:07,068 - crypto_trading_bot - INFO - CHATGPT_API_URL: https://www.askapi.chat/v1/engines/ChatGPT4o/completions
+2024-06-03 06:55:07,068 - crypto_trading_bot - INFO - CHATGPT_API_KEY: sk-4T3FIDUhdC91aR2b117e92Ad6e5b406393AdD05d4b1f4232
+2024-06-03 06:55:07,200 - crypto_trading_bot - ERROR - No symbols found in the database. Please ensure the symbols table is populated.
